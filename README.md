@@ -273,7 +273,7 @@ This project is intended to be released under the MIT License. Add a `LICENSE` f
 
 **YOUR NAME**
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [[@Eminent-Annanya](https://github.com/Eminent-annanya)]
 
 ---
 
